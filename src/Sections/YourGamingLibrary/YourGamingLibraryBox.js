@@ -1,7 +1,7 @@
 
 import GamingLibraryCards from "./GamingLibraryCards";
 import MostPopilerDateBox from "../MostPopiler/MostPopilerDateBox";
-import SectionTitles from "../section_titles/section_titles";
+import SectionTitles from "../sectionTitles/sectionTitles";
 import SectionBtn from "../section_btn/SectionBtn";
 const YourGamingLibraryBox = () => {
   const GamingLibraryCardDiv = MostPopilerDateBox.map((card) => (

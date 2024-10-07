@@ -1,6 +1,6 @@
 import MosstPopilerCard  from "./MosstPopilerCard";
 import MostPopilerDateBox from "./MostPopilerDateBox";
-import Section_titles from "../section_titles/section_titles";
+import Section_titles from "../sectionTitles/sectionTitles";
 import  SectionBtn from "../section_btn/SectionBtn";
 
 const MostPopiler = () => {
